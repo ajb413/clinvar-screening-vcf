@@ -1,4 +1,4 @@
-# ClinVar Carrier Screening Tool
+# ClinVar Genetic Screening Tool
 
 A genetic screening tool that analyzes DNA variants from VCF files to identify carrier/potentially affected status associated with inherited diseases.
 
