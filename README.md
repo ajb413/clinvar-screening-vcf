@@ -9,7 +9,7 @@ A genetic screening tool that analyzes DNA variants from VCF files to identify c
 1. Downloads a VCF file of known disease-causing genetic mutations from ClinVar
 2. Reads the genetic data (VCF file from genetic testing)
 3. Compares DNA against the database
-4. Reports which disease-causing mutations subject carries
+4. Reports which potentially disease-causing mutations subject may carry
 
 ### What It Reports
 
