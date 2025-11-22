@@ -17,7 +17,6 @@ The tool screens all genes in ClinVar but focuses on clinically significant, pat
 - Benign or likely benign variants
 - Variants of uncertain significance
 - Common variants (>1% population frequency)
-- Cancer-predisposition genes (optional)
 - Low-quality submissions
 
 Carrier Status, Affected Status, Potential Compound Heterozygote (Uncertain), Compound Heterozygote Affected
